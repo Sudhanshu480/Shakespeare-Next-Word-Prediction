@@ -22,7 +22,6 @@ An end-to-end NLP project comparing LSTM and GRU deep learning architectures for
 - [Project Structure](#project-structure)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
-- [Learning Outcomes](#learning-outcomes)
 - [Future Improvements](#future-improvements)
 - [Acknowledgement](#acknowledgement)
 
@@ -189,3 +188,48 @@ Shakespeare-Next-Word-Prediction/
 │
 ├── requirements.txt              # Project dependencies
 └── README.md                     # Project documentation
+```
+
+# Installation
+
+Clone the repository
+```
+git clone https://github.com/yourusername/Shakespeare-Next-Word-Prediction.git
+```
+
+Install dependencies
+```
+pip install -r requirements.txt
+```
+
+Run the Streamlit application
+```
+streamlit run app.py
+```
+
+
+# Technologies Used
+* Python
+* TensorFlow / Keras
+* NLTK
+* NumPy
+* Streamlit
+* Matplotlib
+
+
+# Future Improvements
+Possible extensions include:
+* Training on larger Shakespeare corpus
+* Implementing **Transformer-based models**
+* Adding **temperature sampling**
+* Implementing **beam search decoding**
+* Deploying on **cloud platforms**
+
+
+# Acknowledgement
+This project was developed with learning references from the course:
+**Complete Generative AI Course with LangChain and HuggingFace — by Krish Naik (Udemy)**
+
+
+# Author
+**Sudhanshu Kumar**
