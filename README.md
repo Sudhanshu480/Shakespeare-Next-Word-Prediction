@@ -1,11 +1,12 @@
 # 🎭 Shakespeare Next Word Prediction using LSTM and GRU
 An end-to-end NLP project comparing LSTM and GRU deep learning architectures for next-word prediction on Shakespeare's Hamlet. Includes an interactive Streamlit web app for real-time text generation.
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)
-![Keras](https://img.shields.io/badge/Keras-API-red.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)
-![NLP](https://img.shields.io/badge/NLP-Sequence_Modeling-success.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-2.15-orange" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Streamlit-App-red" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License" />
+</p>
 
 ## Table of Contents
 - [Project Overview](#project-overview)
